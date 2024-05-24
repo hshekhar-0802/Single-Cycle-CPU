@@ -5,4 +5,5 @@
   <li><strong><em>register.circ</em></strong>: This contains the register file. As of now, there are 9 registers in the file, x0- which always holds the value 0 and 8 other registers x1,x2,x3-x10. Kindly use only these registers while writing code to simulate on this CPU.</li>
   <li><strong><em>processor.circ</em></strong>: This is the top file containing the CPU. It has two memory units, one program counter, one register file and an ALU unit.</li>
 </ul>
-
+<h2> Software Required</h2>
+Logisim Evolution (preferably, v2.13.8)
